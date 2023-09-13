@@ -1,0 +1,46 @@
+@import '../../styles/mixins.scss';
+
+.contact{
+    display: grid;
+    grid-template-columns: 60% 40%;
+    padding: 4rem 0;
+    border-bottom: 2px solid var(--color-white);
+    @include respond(large-phone) { 
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    &__left{
+        padding-right: 8rem;
+        border-right: 2px solid var(--color-white);
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        @include respond(large-phone) { 
+            border: none;
+            padding-right: 0;
+        }
+    }
+
+    &__right{
+        grid-column: 2;
+        padding: 12rem 0 0 10rem;
+        @include respond(tab-land) { 
+            padding: 8rem 0 0 4rem;
+        }
+        @include respond(large-phone) { 
+            padding: 4rem 0;
+        }
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    &__icon-box{
+
+    }
+    &__icon{
+
+    }
+}

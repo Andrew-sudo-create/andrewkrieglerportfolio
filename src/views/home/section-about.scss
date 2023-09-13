@@ -1,0 +1,47 @@
+@import '../../styles/mixins.scss';
+.about{
+    padding: 5rem 0;
+    display: flex;
+    @include respond(tab-land) { 
+        flex-direction:column-reverse;
+        justify-content: center;
+        align-items: center;
+    }
+    @include respond(phone) { 
+        padding: 2rem 0.5rem ;
+    }
+
+    &__content{
+        padding-right: 10rem;
+        flex: 80%;
+        @include respond(tab-land) { 
+            padding: 0;
+            text-align: center;
+        }
+    }
+
+    &__img-box{
+        
+        width: 60rem;
+        height: auto;
+        @include respond(tab-land) { 
+            width: 40rem;
+            padding: 4rem 0;
+        }
+        @include respond(tab-port) { 
+            width: 30rem;
+        }
+    }
+
+    &__img{
+        border-radius: 2rem;
+        width: 100%;
+        height: auto;
+        object-fit: fill;
+    }
+}
+
+.section-about{
+    
+}
+

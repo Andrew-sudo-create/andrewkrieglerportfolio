@@ -1,0 +1,30 @@
+@import '../../styles/mixins.scss';
+
+.values{
+    border-bottom: 2px solid var(--color-white);
+    &__heading{
+        text-align: center;
+        border-bottom: 2px solid var(--color-white);
+        padding: 4rem 0;
+    }
+    &__value{
+        display: flex;
+        align-items: center;
+        padding: 4rem 0;
+        @include respond(phone) { 
+            flex-direction: column;
+            text-align: center;
+        }
+    }
+    &__number{
+
+    }
+    &__content{
+        padding-left: 4rem;
+        @include respond(phone) { 
+            padding: 2rem 0 0 0 ;
+            flex-direction: column;
+            text-align: center;
+        }
+    }
+}

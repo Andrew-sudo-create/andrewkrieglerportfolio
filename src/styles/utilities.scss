@@ -1,0 +1,20 @@
+@import './mixins.scss';
+
+.-u-margin-bottom{
+    margin-bottom: 3rem;
+}
+
+.-u-margin-bottom-medium{
+    margin-bottom: 8rem;
+}
+
+.-u-margin-bottom-small{
+    margin-bottom: 1rem;
+}
+
+.-u-margin-bottom-large{
+    margin-bottom: 12rem;
+    @include respond(tab-land) { 
+        margin-bottom: 6rem;
+    }
+}

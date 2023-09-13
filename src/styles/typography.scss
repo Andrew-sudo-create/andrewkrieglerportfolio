@@ -1,0 +1,63 @@
+@import './mixins.scss';
+@import './variables.scss';
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=Prata&display=swap');
+// font-family: 'Poppins', sans-serif;
+// font-family: 'Prata', serif;
+
+
+.navLink{
+   
+        font-family: 'Poppins', sans-serif;
+        font-size: 2rem;
+        font-weight: 300;
+        color: var(--color-white) !important;
+        text-transform: uppercase;
+    
+}
+
+.text{
+        font-family: 'Poppins', sans-serif;
+        font-weight: 300;
+        color: var(--color-white);
+        &__large{
+                font-size: 2rem;
+        }
+        &__regular{
+                font-size: 1.5rem;
+        }
+        // &__small{
+        //         font-size: 1.5rem;
+        // }
+   
+}
+
+.heading{
+
+        font-family: 'Prata', serif;
+        font-weight: 400;
+        color: var(--color-white);
+
+        &__primary{
+
+        }
+        &__secondary{
+                font-size: 6rem;
+                @include respond(tab-port) { 
+                        font-size: 4rem;
+                }
+        }
+        &__tertiary{
+                font-size: 3rem;
+        }
+
+        &__projects-name{
+                font-size: 1.8rem;
+
+                &--small{
+                        font-size: 1.5rem; 
+                }
+        }
+        
+}
+
