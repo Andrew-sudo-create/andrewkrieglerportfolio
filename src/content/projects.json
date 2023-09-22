@@ -1,0 +1,56 @@
+{
+    "projects":
+    [
+        {
+            "name":"COME",
+            "lastName":"HONEY",
+            "services":["DEVELOPEMENT","DESIGN"],
+            "img":"https://res.cloudinary.com/du3wd1lbd/image/upload/v1694504188/Andrew%20Kriegler/Home_ejiepj.jpg"
+        },
+        {
+            "name":"TARIRO KANDWASVIKA",
+            "services":["DEVELOPEMENT","DESIGN"],
+            "img":"https://res.cloudinary.com/du3wd1lbd/image/upload/v1694510682/Andrew%20Kriegler/tariro-images_a5c5ka.jpg"
+        },
+        {
+            "name":"TIAGO CROUCAMP",
+            "services":["DEVELOPEMENT","DESIGN"],
+            "img":"https://res.cloudinary.com/du3wd1lbd/image/upload/v1694504463/Andrew%20Kriegler/tiago-home_havits.jpg"
+        },
+        {
+            "name":"IMAAN'S PHOTOGRAPHY",
+            "services":["DEVELOPEMENT","DESIGN"],
+            "img":"https://res.cloudinary.com/du3wd1lbd/image/upload/v1694505740/Andrew%20Kriegler/imaan-home_swboez.jpg"
+        },
+        {
+            "name":"BLACK INK ARTIST'S",
+            "services":["DEVELOPEMENT","DESIGN"],
+            "img":"https://res.cloudinary.com/du3wd1lbd/image/upload/v1694508391/Andrew%20Kriegler/black-ink-home_u2dfmt.jpg"
+        },
+        {
+            "name":"",
+            "services":["DEVELOPEMENT","DESIGN"],
+            "img":""
+        },
+        {
+            "name":"",
+            "services":["DEVELOPEMENT","DESIGN"],
+            "img":""
+        },
+        {
+            "name":"",
+            "services":["DEVELOPEMENT","DESIGN"],
+            "img":""
+        }
+    ]
+}
+
+
+
+
+
+
+
+"name":"",
+"services":["",""],
+"img":""

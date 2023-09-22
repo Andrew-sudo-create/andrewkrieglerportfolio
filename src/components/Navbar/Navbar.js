@@ -1,7 +1,7 @@
 import {BrowserRouter as Router, Routes, Route, Link} from "react-router-dom";
 import { useState } from 'react'
 
-import './Navbar.scss'
+import styles from './Navbar.module.scss'
 import '../../styles/variables.scss'
 import '../../styles/typography.scss'
 
@@ -29,31 +29,31 @@ function Navbar() {
      
 
 
-        <nav className="navbar">
+        <nav className={styles.navbar}>
 
 
           {/* logo */}
-          <div className="logo">
-            <img className="logo__img" src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1693381825/Andrew%20Kriegler/png_iqqofh.png" alt="logo"></img>
+          <div className={styles.logo}>
+            <img className={styles.logo__img} src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1693381825/Andrew%20Kriegler/png_iqqofh.png" alt="logo"></img>
           </div>
 
 
-          <div className={`${"navMenu"} ${isActive ? "active" : ''}`}>
+          <div className={`${styles.navMenu} ${isActive ? `${styles.active}` : ''}`}>
 
-            <Link onClick={removeActive} className= "navLink" to="/">Home</Link>
-            <Link onClick={removeActive} className= "navLink" to="/about">About</Link>
-            <Link onClick={removeActive} className= "navLink" to="/packages">Packages</Link>
-            <Link onClick={removeActive} className= "navLink" to="/projects">Projects</Link>
-            <Link onClick={removeActive} className= "navLink" to="/services">Services</Link>
-            <Link onClick={removeActive} className= "navLink" to="/contact">Contact</Link>
+            <Link onClick={removeActive} className={styles.navLink} to="/">Home</Link>
+            <Link onClick={removeActive} className={styles.navLink} to="/about">About</Link>
+            <Link onClick={removeActive} className={styles.navLink} to="/packages">Packages</Link>
+            <Link onClick={removeActive} className={styles.navLink} to="/projects">Projects</Link>
+            <Link onClick={removeActive} className={styles.navLink} to="/services">Services</Link>
+            <Link onClick={removeActive} className={styles.navLink} to="/contact">Contact</Link>
             
           </div>
 
 
-          <div className={`${"hamburger"} ${isActive ? "active" : ''}`}  onClick={toggleActiveClass}>
-            <span className="bar"></span>
-            <span className="bar"></span>
-            <span className="bar"></span>
+          <div className={`${styles.hamburger} ${isActive ? `${styles.active}` : ''}`}  onClick={toggleActiveClass}>
+            <span className={styles.bar}></span>
+            <span className={styles.bar}></span>
+            <span className={styles.bar}></span>
           </div>
 
         </nav>

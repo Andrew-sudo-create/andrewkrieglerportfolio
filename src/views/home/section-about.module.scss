@@ -1,4 +1,7 @@
 @import '../../styles/mixins.scss';
+@import '../../styles/typography.scss';
+@import '../../styles/utilities.scss';
+@import '../../styles/variables.scss';
 .about{
     padding: 5rem 0;
     display: flex;
@@ -20,7 +23,7 @@
         }
     }
 
-    &__img-box{
+    &__img_box{
         
         width: 60rem;
         height: auto;
@@ -41,7 +44,7 @@
     }
 }
 
-.section-about{
+.section_about{
     
 }
 

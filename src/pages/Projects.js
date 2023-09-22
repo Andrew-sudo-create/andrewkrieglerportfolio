@@ -1,7 +1,13 @@
+import NavBar from '../components/Navbar/Navbar';
+import Footer from '../components/Footer/footer'
+import Project from '../components/Projects/Project';
+
+
 function ProjectsPage() {
     return (
-      <div className="Projects">
-        <h1>Projects Page</h1>
+      <div className="projects">
+        <NavBar/>
+        <Project/>
       </div>
     );
   }

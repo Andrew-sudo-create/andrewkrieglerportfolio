@@ -1,4 +1,7 @@
 @import '../../styles/mixins.scss';
+@import '../../styles/typography.scss';
+@import '../../styles/utilities.scss';
+@import '../../styles/variables.scss';
 
 .offers{
     border-top: solid 2px var(--color-white);
@@ -77,7 +80,7 @@
         }
     }
 
-    &__image-box{
+    &__image_box{
         
         // height: auto;
     }

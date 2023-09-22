@@ -1,4 +1,7 @@
 @import '../../styles/mixins.scss';
+@import '../../styles/typography.scss';
+@import '../../styles/utilities.scss';
+@import '../../styles/variables.scss';
 
 .projects{
 
@@ -36,16 +39,16 @@
     }
 
     &__item{
-        // padding-top: 2rem;
+        padding-top: 2rem;
     }
 
-    &__image-box{
+    &__image_box{
         object-fit: fill;
         width: 100%;
         height: auto;
        
 
-        &--small{
+        &__small{
             
             width: 100%;
         }
@@ -74,19 +77,19 @@
             // padding: 4rem 0;
         }
         
-        &--1{
+        &__1{
             justify-self:left;
             padding-top: 2rem;
         }
-        &--2{
+        &__2{
             justify-self: end;
             padding-top: 2rem;
         }
-        &--3{
+        &__3{
             justify-self:left;
             padding-top: 2rem;
         }
-        &--4{
+        &__4{
             justify-self: end;
             padding-top: 2rem;
         }

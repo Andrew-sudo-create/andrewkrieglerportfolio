@@ -47,6 +47,15 @@
                         font-size: 4rem;
                 }
         }
+        &__medium{
+                font-size: 5rem;
+                @include respond(tab-land) { 
+                        font-size: 4rem;
+                    }
+                    @include respond(phone) { 
+                        font-size: 3rem;
+                    }
+        }
         &__tertiary{
                 font-size: 3rem;
         }
