@@ -1,0 +1,126 @@
+[
+    {
+        "name":"TARIRO",
+        "lastName":"KANDAWASVIKA",
+        "client":"TARIRO KANDAWASVIKA",
+        "year":"2023",
+        "timeline":"2 WEEKS",
+        "services":["DESIGN","DEVELOPEMENT"],
+        "website":"https://tariro.photography/",
+        "challenge":"My client needed a developer to fulfill a design that she already wonderfully designed, she asked for it to be simple, and composed mostlty of photos",
+        "solution":"We collaborated and came ro teh final product, with a minmal amount of pages and a really good looking website",
+        "results":"The website came out very well, and the client was satisfied",
+        "images":["https://res.cloudinary.com/du3wd1lbd/image/upload/v1695915515/Andrew%20Kriegler/tariro--1_nyt7rt.png","https://res.cloudinary.com/du3wd1lbd/image/upload/v1694510682/Andrew%20Kriegler/tariro-images_a5c5ka.jpg","https://res.cloudinary.com/du3wd1lbd/image/upload/v1695915725/Andrew%20Kriegler/tariro_-_2_bcra1a.png"]
+    },
+    {
+        "name":"TIAGO",
+        "lastName":"CROUCAMP",
+        "client":"TIAGO CROUCAMP",
+        "year":"2023",
+        "timeline":"2 WEEKS",
+        "services":["DESIGN","DEVELOPEMENT"],
+        "website":"https://tiagocroucamp.com/",
+        "challenge":"My client needed a developer to fulfill a design that she already wonderfully designed, she asked for it to be simple, and composed mostlty of photos",
+        "solution":"We collaborated and came ro teh final product, with a minmal amount of pages and a really good looking website",
+        "results":"The website came out very well, and thhe client was satisfied",
+        "images":["https://res.cloudinary.com/du3wd1lbd/image/upload/v1694504463/Andrew%20Kriegler/tiago-home_havits.jpg","https://res.cloudinary.com/du3wd1lbd/image/upload/v1695916624/Andrew%20Kriegler/tiago--1_xljy3b.png","https://res.cloudinary.com/du3wd1lbd/image/upload/v1695916800/Andrew%20Kriegler/tiago--2_nl3mdt.png"]
+    },
+    {
+        "name":"IMAAN'S",
+        "lastName":"PHOTOGRAPHY",
+        "client":"IMAAN KAMEDIEN",
+        "year":"2023",
+        "timeline":"2 WEEKS",
+        "services":["DESIGN","DEVELOPEMENT"],
+        "website":"https://imaansphotography.com/",
+        "challenge":"My client needed a developer to fulfill a design that she already wonderfully designed, she asked for it to be simple, and composed mostlty of photos",
+        "solution":"We collaborated and came ro teh final product, with a minmal amount of pages and a really good looking website",
+        "results":"The website came out very well, and thhe client was satisfied",
+        "images":
+        ["https://res.cloudinary.com/du3wd1lbd/image/upload/v1695917854/Andrew%20Kriegler/imaan--3_ewhb5v.png",
+        "https://res.cloudinary.com/du3wd1lbd/image/upload/v1695917856/Andrew%20Kriegler/imaan--2_diavz8.png",
+        "https://res.cloudinary.com/du3wd1lbd/image/upload/v1694505740/Andrew%20Kriegler/imaan-home_swboez.jpg"]
+    },
+    {
+        "name":"BLACK INK",
+        "lastName":"ARTISTS",
+        "client":"HASSAN JAZAERI",
+        "year":"2023",
+        "timeline":"2 WEEKS",
+        "services":["DESIGN","DEVELOPEMENT"],
+        "website":"DEVELOPEMENT",
+        "challenge":"My client needed a developer to fulfill a design that she already wonderfully designed, she asked for it to be simple, and composed mostlty of photos",
+        "solution":"We collaborated and came ro teh final product, with a minmal amount of pages and a really good looking website",
+        "results":"The website came out very well, and thhe client was satisfied",
+        "images":
+        ["https://res.cloudinary.com/du3wd1lbd/image/upload/v1694508391/Andrew%20Kriegler/black-ink-home_u2dfmt.jpg",
+        "https://res.cloudinary.com/du3wd1lbd/image/upload/v1695918723/Andrew%20Kriegler/black--1_s4ibks.jpg",
+        "https://res.cloudinary.com/du3wd1lbd/image/upload/v1695918724/Andrew%20Kriegler/black--2_x4lplz.jpg"]
+    },
+    {
+        "name":"BRANDLINK",
+        "lastName":"",
+        "client":"KUNDANI PHUPHELI",
+        "year":"2023",
+        "timeline":"2 WEEKS",
+        "services":["DESIGN","DEVELOPEMENT"],
+        "website":"https://brandlinkza.com/",
+        "challenge":"My client needed a developer to fulfill a design that she already wonderfully designed, she asked for it to be simple, and composed mostlty of photos",
+        "solution":"We collaborated and came ro teh final product, with a minmal amount of pages and a really good looking website",
+        "results":"The website came out very well, and thhe client was satisfied",
+        "images":
+        ["https://res.cloudinary.com/du3wd1lbd/image/upload/v1695193214/Andrew%20Kriegler/brandlinkza_1_rewbfl.jpg",
+        "https://res.cloudinary.com/du3wd1lbd/image/upload/v1695919166/Andrew%20Kriegler/brandlink--1__xa4lpm.png",
+        "https://res.cloudinary.com/du3wd1lbd/image/upload/v1695919166/Andrew%20Kriegler/brandlink--2_iehuvu.png"]
+    },
+    {
+        "name":"LM",
+        "lastName":"VISUALS",
+        "client":"LUNGELO MNGOMEZULU",
+        "year":"2023",
+        "timeline":"2 WEEKS",
+        "services":["DESIGN","DEVELOPEMENT"],
+        "website":"https://lmvisualsza.com/",
+        "challenge":"My client needed a developer to fulfill a design that she already wonderfully designed, she asked for it to be simple, and composed mostlty of photos",
+        "solution":"We collaborated and came ro teh final product, with a minmal amount of pages and a really good looking website",
+        "results":"The website came out very well, and thhe client was satisfied",
+        "images":
+        ["https://res.cloudinary.com/du3wd1lbd/image/upload/v1695370952/Andrew%20Kriegler/lmvisualsza.com__1_1_jvmfqm.jpg",
+        "https://res.cloudinary.com/du3wd1lbd/image/upload/v1695919542/Andrew%20Kriegler/lm-1_rxqwx6.png",
+        "https://res.cloudinary.com/du3wd1lbd/image/upload/v1695919595/Andrew%20Kriegler/lm-2_pgmanp.png"]
+    },
+    {
+        "name":"MITAKON",
+        "lastName":"INNOVATION",
+        "client":"MICHAEL TAYLOR",
+        "year":"2023",
+        "timeline":"2 WEEKS",
+        "services":["DESIGN","DEVELOPEMENT"],
+        "website":"https://mitakoninnovation.com/",
+        "challenge":"My client needed a developer to fulfill a design that she already wonderfully designed, she asked for it to be simple, and composed mostlty of photos",
+        "solution":"We collaborated and came ro teh final product, with a minmal amount of pages and a really good looking website",
+        "results":"The website came out very well, and thhe client was satisfied",
+        "images":
+        ["https://res.cloudinary.com/du3wd1lbd/image/upload/v1695371195/Andrew%20Kriegler/mitakoninnovation.com__1_hbk6od.png",
+        "https://res.cloudinary.com/du3wd1lbd/image/upload/v1695921042/Andrew%20Kriegler/mitakon--1_vynuxi.png",
+        "https://res.cloudinary.com/du3wd1lbd/image/upload/v1695921044/Andrew%20Kriegler/mitakon--2_d2kv4o.png"]
+    },
+    {
+        "name":"FEMS",
+        "lastName":"SOLUTIONS",
+        "client":"PIERRE KRIEGLER",
+        "year":"2023",
+        "timeline":"2 WEEKS",
+        "services":["DESIGN","DEVELOPEMENT"],
+        "website":"https://femsolutions.net/",
+        "challenge":"My client needed a developer to fulfill a design that she already wonderfully designed, she asked for it to be simple, and composed mostlty of photos",
+        "solution":"We collaborated and came ro teh final product, with a minmal amount of pages and a really good looking website",
+        "results":"The website came out very well, and thhe client was satisfied",
+        "images":
+        ["https://res.cloudinary.com/du3wd1lbd/image/upload/v1695371611/Andrew%20Kriegler/femsolutions.net__4_kvgkpv.png",
+        "https://res.cloudinary.com/du3wd1lbd/image/upload/v1695921632/Andrew%20Kriegler/fems--2_ygpbfk.png",
+        "https://res.cloudinary.com/du3wd1lbd/image/upload/v1695921632/Andrew%20Kriegler/fems--1_veby9b.png"]
+    }
+
+]
+

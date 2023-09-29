@@ -1,0 +1,117 @@
+[
+    {
+        "icon":"https://res.cloudinary.com/du3wd1lbd/image/upload/v1695894593/Andrew%20Kriegler/solution_eqi0v2.svg",
+        "type":"FREE",
+        "info":[
+            "STATIC WEBSITE",
+            "6 PAGES"
+        ],
+        "pricing":"Hours spent on website development are not billed. The client only pays for hosting and domain fees, and consultation calls if applicable.",
+        "pages":"The package includes the development of a static website with a maximum of 6 pages.",
+        "features":"This package includes no special feature, special features available on request and upgrade may be applicable",
+        "maintenance":"Hosting & Maintenance fees are covered by the client and are priced at R300 per month. Domain name is also covered by the client at a cost of R260 per annum",
+        "calls":"The client is entitled to a maximum of 6 consultation calls, with each call limited to 1 hour. These calls will be available Monday to Friday, 9 am to 5 pm.",
+        "communication":"The client is entitled to a maximum of 6 consultation calls, with each call limited to 1 hour. These calls will be available Monday to Friday, 9 am to 5 pm.",
+        "terms":[
+            "- This free pricing plan is valid for the development of a static website comprising 6 pages.",
+            "- The client will cover the hosting fees and domain name registration costs.",
+            "- The client is entitled to a maximum of 6 consultation calls, each lasting up to 1 hour.",
+            "- Consultation calls should be scheduled during business hours (Monday to Friday, 9 am to 5 pm).",
+            "- The client is responsible for providing all necessary content, images, and other materials required for the website development.",
+            "- Any additional features or pages beyond the scope of the free plan may incur additional charges.",
+            "- The web developer reserves the right to decline any project at their discretion.",
+            "- The client must adhere to the terms of service provided by the hosting provider and domain registrar.",
+            "- The web developer is not responsible for any third-party services or products used on the website.",
+            "- The web developer is responsible for regular website maintenance and updates after the website's completion."
+        ],
+        "condition":"Please note that this free pricing plan is designed to offer affordable web development services to clients seeking a basic static website. For more complex projects or additional features, the web developer may offer custom pricing based on the specific requirements of the client."
+    },
+    {
+        "icon":"https://res.cloudinary.com/du3wd1lbd/image/upload/v1695894586/Andrew%20Kriegler/challenge_r3rjyk.svg",
+        "type":"PREMIUM",
+        "info":[
+            "STATIC WEBSITE",
+            "10 PAGES",
+            "PREMIUM FEATURES"
+        ],
+        "pricing":"The cost for the premium package is R3000 per website, one-time payment.",
+        "pages":"The package includes the development of a static website with up to 10 pages.",
+        "features":"This plan includes advanced features to enhance the website's functionality and user experience, such as a contact form and an on-site messenger for real-time customer interactions.",
+        "maintenance":"Website maintenance is R300 per month, which covers regular updates and technical support.",
+        "calls":"The client is entitled to unlimited consultation calls, each lasting up to 1 hour. These calls will be available Monday to Friday, 9 am to 5 pm.",
+        "communication":"The web developer is available for message communication with the client during business hours (Monday to Friday, 9 am to 5 pm).",
+        "terms":[
+            "- The premium pricing plan is valid for the development of a static website comprising 10 pages with premium features.",
+            "- The one-time payment of R3000 includes the development of the website and the implementation of the premium features.",
+            "- There is a maintenance fee priced at R300, which includes regular updates and technical support for the website.",
+            "- The premium features included in this plan are a contact form and an on-site messenger.",
+            "- The client is entitled to unlimited consultation calls, each lasting up to 1 hour, during the development process and after the website's completion.",
+            "- Consultation calls should be scheduled during business hours (Monday to Friday, 9 am to 5 pm).",
+            "- The client is responsible for providing all necessary content, images, and other materials required for the website development.",
+            "- Any additional features or pages beyond the scope of the premium plan may incur additional charges.",
+            "- The web developer reserves the right to decline any project at their discretion.",
+            "- The client must adhere to the terms of service provided by the hosting provider and domain registrar.",
+            "- The web developer is not responsible for any third-party services or products used on the website.",
+            "- The premium features included in this plan are subject to the web developer's discretion and may be adjusted or customized based on the project's requirements.",
+            "- Any future updates or changes to the premium features may be subject to additional charges."
+        ],
+        "condition":"Please note that this paid pricing plan offers a premium web development package with advanced features, unlimited consultation calls, and optional maintenance services for clients seeking a more comprehensive and feature-rich website solution. The client can also customize the plan further based on their specific needs and requirements."
+    },
+    {
+        "icon":"https://res.cloudinary.com/du3wd1lbd/image/upload/v1695894590/Andrew%20Kriegler/results_xppekb.svg",
+        "type":"ULTIMATE",
+        "info":[
+            "DYNAMIC WEBSITE",
+            "UNLIMITED FEATURES",
+            "UNLIMITED PAGES"
+        ],
+        "pricing":"The cost for the ultimate package starts at R10000 per website, with pricing varying based on project complexity and additional features requested.",
+        "pages":"The package includes the development of a dynamic website with unlimited pages.",
+        "features":"This plan offers the flexibility to include any number of advanced features and functionalities, tailored to the client's specific needs and requirements.",
+        "maintenance":"Website maintenance at a cost of R2500 per month, which includes regular updates, security monitoring, and technical support.",
+        "calls":"The client is entitled to unlimited consultation calls, available 24/7 throughout the development process and after the website's completion.",
+        "communication":"The web developer is available for continuous message communication with the client, ensuring seamless collaboration and support.",
+        "terms":[
+            "- The ultimate pricing plan is valid for the development of a dynamic website with unlimited pages and features, tailored to the client's requirements.",
+            "- The initial cost of R7000+ includes the development of the website and basic features; additional charges may apply for highly customized or complex projects.",
+            "- There is a monthly maintenance fee priced at R2500, which includes regular updates, security monitoring, and technical support for the website.",
+            "- The ultimate plan includes the freedom to incorporate unlimited features and functionalities to meet the client's unique needs.",
+            "- The client is entitled to unlimited consultation calls, available 24/7, each lasting up to 1 hour, ensuring continuous communication and project updates.",
+            "- The client is responsible for providing all necessary content, images, and other materials required for the website development.",
+            "- The web developer reserves the right to decline any project at their discretion.",
+            "- The client must adhere to the terms of service provided by the hosting provider and domain registrar.",
+            "- The web developer is not responsible for any third-party services or products used on the website.",
+            "- The ultimate features included in this plan are entirely customizable, based on the client's specific requirements and preferences.",
+            "- Any future updates or changes to the ultimate features may be subject to additional charges."
+        ],
+        "condition":"Please note that this premium pricing plan offers an ultimate web development package with unlimited pages, features, and consultation calls, providing clients with a fully tailored and scalable solution. The client can enjoy continuous support, advanced functionalities, and complete customization options to create a high-quality and feature-rich website. The pricing will be adjusted based on the complexity and requirements of each individual project."
+    },
+    {
+        "icon":"https://res.cloudinary.com/du3wd1lbd/image/upload/v1694421382/Andrew%20Kriegler/branding_ewznty.svg",
+        "type":"NO-CODE",
+        "info":[
+            "WORDPRESS, WIX, SQUARSPACE ETC",
+            "6 PAGES"
+        ],
+        "pricing":"The cost for the no-code package is R6000 per website, one-time payment.",
+        "pages":"The package includes the development of a WordPress, Wix, or square space website with up to 6 pages.",
+        "features":"This plan includes a no code website, with themes and functionality that the client requests.",
+        "maintenance":"Website maintenance is R500 per month, which covers regular updates and technical support.",
+        "calls":"The client is entitled to unlimited consultation calls, each lasting up to 1 hour. These calls will be available Monday to Friday, 9 am to 5 pm.",
+        "communication":"The web developer is available for message communication with the client during business hours (Monday to Friday, 9 am to 5 pm).",
+        "terms":[
+            "- The no-code pricing plan is valid for the development of a no-code website with 6 pages and features, tailored to the client's requirements.",
+            "- The initial cost of R6000 includes the development of the website and basic features; additional charges may apply for highly customized or complex projects.",
+            "- There is a monthly maintenance fee priced at R500, which includes regular updates, security monitoring, and technical support for the website.",
+            "- The no-code plan includes the freedom to incorporate features and functionalities to meet the client's unique needs.",
+            "- The client is entitled to unlimited consultation calls, available 24/7, each lasting up to 1 hour, ensuring continuous communication and project updates.",
+            "- The client is responsible for providing all necessary content, images, and other materials required for the website development.",
+            "- The web developer reserves the right to decline any project at their discretion.",
+            "- The client must adhere to the terms of service provided by the hosting provider and domain registrar.",
+            "- The web developer is not responsible for any third-party services or products used on the website.",
+            "- The no-code features included in this plan are entirely customizable, based on the client's specific requirements and preferences.",
+            "- Any future updates or changes to the no-code features may be subject to additional charges."
+        ],
+        "condition":"Please note that this premium pricing plan offers a no-code web development package with 6 pages, features, and consultation calls, providing clients with a fully tailored and scalable solution. The client can enjoy continuous support, advanced functionalities, and complete customization options to create a high-quality and feature-rich website. The pricing will be adjusted based on the complexity and requirements of each individual project."
+    }
+]

@@ -29,6 +29,9 @@
         // &__small{
         //         font-size: 1.5rem;
         // }
+        &--blue{
+                color: var(--color-blue);
+        }
    
 }
 
@@ -37,14 +40,23 @@
         font-family: 'Prata', serif;
         font-weight: 400;
         color: var(--color-white);
+        // display: flex;
+        // flex-wrap: 1;
 
         &__primary{
-
+                font-size: 8rem;
+                @include respond(tab-port) { 
+                        font-size: 4rem;
+                }
+               
         }
         &__secondary{
                 font-size: 6rem;
                 @include respond(tab-port) { 
                         font-size: 4rem;
+                }
+                @include respond(phone) { 
+                        font-size: 3rem;
                 }
         }
         &__medium{

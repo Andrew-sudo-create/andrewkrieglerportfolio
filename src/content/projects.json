@@ -1,56 +1,71 @@
-{
-    "projects":
+
     [
         {
-            "name":"COME",
-            "lastName":"HONEY",
+            "id":"0",
+            "name":"TARIRO",
+            "lastName":"KANDAWASVIKA",
             "services":["DEVELOPEMENT","DESIGN"],
-            "img":"https://res.cloudinary.com/du3wd1lbd/image/upload/v1694504188/Andrew%20Kriegler/Home_ejiepj.jpg"
+            "img":"https://res.cloudinary.com/du3wd1lbd/image/upload/v1694510682/Andrew%20Kriegler/tariro-images_a5c5ka.jpg",
+            "url":"tarirokandawasvika"
+            
         },
         {
-            "name":"TARIRO KANDWASVIKA",
+            "id":"1",
+            "name":"TIAGO",
+            "lastName":"CROUCAMP",
             "services":["DEVELOPEMENT","DESIGN"],
-            "img":"https://res.cloudinary.com/du3wd1lbd/image/upload/v1694510682/Andrew%20Kriegler/tariro-images_a5c5ka.jpg"
+            "img":"https://res.cloudinary.com/du3wd1lbd/image/upload/v1694504463/Andrew%20Kriegler/tiago-home_havits.jpg",
+            "url":"tiagocroucamp"
+
         },
         {
-            "name":"TIAGO CROUCAMP",
+            "id":"2",
+            "name":"IMAAN'S",
+            "lastName":"PHOTOGRAPHY",
             "services":["DEVELOPEMENT","DESIGN"],
-            "img":"https://res.cloudinary.com/du3wd1lbd/image/upload/v1694504463/Andrew%20Kriegler/tiago-home_havits.jpg"
+            "img":"https://res.cloudinary.com/du3wd1lbd/image/upload/v1694505740/Andrew%20Kriegler/imaan-home_swboez.jpg",
+            "url":"imaansphotography"
         },
         {
-            "name":"IMAAN'S PHOTOGRAPHY",
+            "id":"3",
+            "name":"BLACK INK ",
+            "lastName":"ARTIST'S",
             "services":["DEVELOPEMENT","DESIGN"],
-            "img":"https://res.cloudinary.com/du3wd1lbd/image/upload/v1694505740/Andrew%20Kriegler/imaan-home_swboez.jpg"
+            "img":"https://res.cloudinary.com/du3wd1lbd/image/upload/v1694508391/Andrew%20Kriegler/black-ink-home_u2dfmt.jpg",
+            "url":"blackinkartists"
         },
         {
-            "name":"BLACK INK ARTIST'S",
+            "id":"4",
+            "name":"BRANDLINK",
             "services":["DEVELOPEMENT","DESIGN"],
-            "img":"https://res.cloudinary.com/du3wd1lbd/image/upload/v1694508391/Andrew%20Kriegler/black-ink-home_u2dfmt.jpg"
+            "img":"https://res.cloudinary.com/du3wd1lbd/image/upload/v1695193214/Andrew%20Kriegler/brandlinkza_1_rewbfl.jpg",
+            "url":"brandlink"
         },
         {
-            "name":"",
+            "id":"5",
+            "name":"LM",
+            "lastName":"VISUALS",
             "services":["DEVELOPEMENT","DESIGN"],
-            "img":""
+            "img":"https://res.cloudinary.com/du3wd1lbd/image/upload/v1695370952/Andrew%20Kriegler/lmvisualsza.com__1_1_jvmfqm.jpg",
+            "url":"lmvisuals"
         },
         {
-            "name":"",
+            "id":"6",
+            "name":"MITAKON",
+            "lastName":"INNOVATION",
             "services":["DEVELOPEMENT","DESIGN"],
-            "img":""
+            "img":"https://res.cloudinary.com/du3wd1lbd/image/upload/v1695371195/Andrew%20Kriegler/mitakoninnovation.com__1_hbk6od.png",
+            "url":"mitakoninnovation"
         },
         {
-            "name":"",
+            "id":"7",
+            "name":"FEMS",
+            "lastName":"SOLUTIONS",
             "services":["DEVELOPEMENT","DESIGN"],
-            "img":""
+            "img":"https://res.cloudinary.com/du3wd1lbd/image/upload/v1695371692/Andrew%20Kriegler/femsolutions.net__4_dp6wax.png",
+            "url":"femsolutions"
         }
     ]
-}
 
 
 
-
-
-
-
-"name":"",
-"services":["",""],
-"img":""
