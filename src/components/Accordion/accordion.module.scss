@@ -1,0 +1,38 @@
+.faqs{
+   
+  
+
+    &__item{
+        border-bottom: 2px solid var(--color-white);
+        padding: 2rem 0;
+        cursor: pointer;
+        &:first-child{
+            padding-bottom: 2rem;
+            padding-top: 0;
+        }
+        &:last-child{
+            border-bottom:none;
+        }
+    }
+
+    &__icon{
+        color: var(--color-white);
+        font-size: 5rem;
+        position: absolute;
+        right: 0rem;
+        top: -0.5rem;
+        cursor: pointer;
+      
+    }
+
+    &__content{
+        transition: .5s all;
+    }
+    
+    &__flex{
+        display: flex;
+        align-items: center;
+        position: relative;
+        
+    }
+}

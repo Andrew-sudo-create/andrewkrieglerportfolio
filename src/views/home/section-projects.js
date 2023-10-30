@@ -26,10 +26,10 @@ function SectionProjects() {
                 <div className={styles.projects__items}>
                     <div className={styles.projects__item}>
                         <div className={styles.projects__image_box}>
-                            <img className={styles.projects__img} src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1694504188/Andrew%20Kriegler/Home_ejiepj.jpg" alt=""></img>
+                            <img className={styles.projects__img} src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1694508391/Andrew%20Kriegler/black-ink-home_u2dfmt.jpg" alt=""></img>
                         </div>
                         <div className={styles.projects__desc}>
-                            <h1 className="heading heading__projects-name">Come Honey Photo & Film</h1>
+                            <h1 className="heading heading__projects-name">Black Ink Artists</h1>
                             <p className='text text__large'>2023</p>
                         </div>
                     </div>
@@ -56,10 +56,10 @@ function SectionProjects() {
 
                         <div className={`${styles.projects__item} ${styles.projects__grid__3}}`}>
                             <div className={`${styles.projects__image_box} ${styles.projects__image_box__small}}`}>
-                                <img className={styles.projects__img} src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1694508391/Andrew%20Kriegler/black-ink-home_u2dfmt.jpg" alt=""></img>
+                                <img className={styles.projects__img} src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1695371195/Andrew%20Kriegler/mitakoninnovation.com__1_hbk6od.png" alt=""></img>
                             </div>
                             <div className={styles.projects__desc}>
-                                <h1 className="heading heading__projects-name heading__projects-name--small">Black Ink Artists</h1>
+                                <h1 className="heading heading__projects-name heading__projects-name--small">Mitakon Innovation</h1>
                                 <p className='text text__regular'>2023</p>
                             </div>
                         </div>

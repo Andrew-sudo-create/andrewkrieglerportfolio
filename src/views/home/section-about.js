@@ -18,7 +18,7 @@ function SectionAbout() {
             </div>
             
             <div className ={styles.about__img_box}>
-                <img className ={styles.about__img} src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1693814166/Andrew%20Kriegler/profilephoto_ez9nng.jpg"/>
+                <img className ={styles.about__img} src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1698305919/Andrew%20Kriegler/profilephoto_ez9nng_mmbmdw.jpg"/>
             </div>
         </div>
       </div>

@@ -1,0 +1,73 @@
+@import '../styles/mixins.scss';
+
+.about{
+    position: relative;
+}
+
+.loader{
+    display: grid;
+    grid-template-columns: 60% 40%;
+    padding: 4rem 0;
+    text-align: center;
+    @include respond(tab-land) { 
+        grid-template-columns: 1fr;
+        
+    }
+    border-bottom: 2px solid var(--color-white);
+    &__image_box{
+        width: 100%;
+        height: auto;
+        object-fit: fill;
+        padding-left: 4rem;
+        @include respond(tab-land) { 
+            padding-left: 0;
+            padding-bottom: 4rem;
+            width: 50%;
+            justify-self: center;
+        }
+        @include respond(phone) { 
+           
+            width: 70%;
+            
+        }
+    }
+    &__image{
+        width: 100%;
+        height: auto;
+        object-fit: fill;
+        border-radius: 1rem;
+    }
+
+    &__content{
+      display: flex;
+      flex-direction: column;
+      text-align: left;
+      justify-content: space-between;
+     
+      @include respond(tab-land) { 
+        grid-row: 2;
+        text-align: center;
+    }
+      
+    }
+
+    &__tag{
+        border: 2px solid var(--color-white);
+        border-radius: 1rem;
+        padding: 0.5rem 2rem;
+        margin-right:2rem;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    &__tags{
+        @include respond(tab-land) { 
+            padding-top: 4rem;
+            justify-content: center;
+            align-items: center;
+        }
+        display: flex;
+        flex-shrink: 1;
+        flex-wrap: wrap;
+    }
+    
+}

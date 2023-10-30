@@ -1,0 +1,53 @@
+@import '../styles/mixins.scss';
+
+.contact{
+    padding: 4rem 0;
+    border-bottom: 2px solid var(--color-white);
+    
+    &__heading{
+        padding-bottom: 12rem;
+        
+    }
+    &__details{
+       display: flex;
+       flex-shrink: 1;
+        flex-wrap: wrap;
+    }
+    &__detail{
+        padding-right:4rem ;
+        padding-top: 2rem;
+    }
+
+}
+
+.faqs{
+    display: grid;
+    grid-template-columns: 40% 60%;
+    padding: 4rem 0;
+    border-bottom: 2px solid var(--color-white);
+    @include respond(tab-port) { 
+        grid-template-columns: 1fr;
+        padding-top: 4rem ;
+        padding-bottom: 0;
+     }
+    
+    &__faq{
+        padding-left: 8rem;
+        @include respond(tab-port) { 
+            padding-left: 0;
+            padding-top: 4rem;
+         }
+    }
+
+    &__heading{
+        border-right: 2px solid var(--color-white);
+        @include respond(tab-port) { 
+            padding-bottom: 2rem;
+            border-right: none;
+            border-bottom: 2px solid var(--color-white);
+         }
+    }
+
+   
+    
+}

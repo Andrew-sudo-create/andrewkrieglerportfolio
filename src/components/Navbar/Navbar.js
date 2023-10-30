@@ -34,7 +34,7 @@ function Navbar() {
 
           {/* logo */}
           <div className={styles.logo}>
-            <img className={styles.logo__img} src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1693381825/Andrew%20Kriegler/png_iqqofh.png" alt="logo"></img>
+            <img className={styles.logo__img} src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1698305919/Andrew%20Kriegler/png_iqqofh_zzywuc.png" alt="logo"></img>
           </div>
 
 
