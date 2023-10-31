@@ -4,7 +4,7 @@
 @import '../../styles/variables.scss';
 
 .projects{
-
+    overflow-x: hidden !important;
     display: grid;
     border-bottom: solid 2px var(--color-white);
     grid-template-columns: 43.8% 57.2%;

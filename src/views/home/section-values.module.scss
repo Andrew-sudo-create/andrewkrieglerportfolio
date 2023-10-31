@@ -5,6 +5,7 @@
 
 .values{
     border-bottom: 2px solid var(--color-white);
+    overflow-x: hidden !important;
     &__heading{
         text-align: center;
         border-bottom: 2px solid var(--color-white);

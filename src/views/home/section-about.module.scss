@@ -3,6 +3,7 @@
 @import '../../styles/utilities.scss';
 @import '../../styles/variables.scss';
 .about{
+    overflow-x: hidden !important;
     padding: 5rem 0;
     display: flex;
     @include respond(tab-land) { 

@@ -5,6 +5,7 @@
     grid-template-columns: 60% 40%;
     padding: 4rem 0;
     border-bottom: 2px solid var(--color-white);
+    overflow-x: hidden !important;
     @include respond(large-phone) { 
         display: flex;
         flex-direction: column;

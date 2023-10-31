@@ -4,6 +4,7 @@
 @import '../../styles/variables.scss';
 
 .offers{
+    overflow-x: hidden !important;
     border-top: solid 2px var(--color-white);
     border-bottom: solid 2px var(--color-white);
     display: grid;

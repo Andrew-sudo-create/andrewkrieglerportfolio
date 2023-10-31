@@ -1,6 +1,7 @@
 .projects{
 
     position: relative;
+    overflow-x: hidden !important;
 
     &__header{
         padding: 8rem 0 30rem 0;
