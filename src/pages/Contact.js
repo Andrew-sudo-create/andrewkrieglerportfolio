@@ -11,7 +11,7 @@ import faq from '../content/questions.json'
 
 function ContactPage() {
     return (
-      <div>
+      <div className={styles.section_contact}>
         <NavBar/>
           <div className={styles.contact}>
              <div className={styles.contact__heading}>

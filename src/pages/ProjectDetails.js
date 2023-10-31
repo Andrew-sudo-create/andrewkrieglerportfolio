@@ -27,7 +27,7 @@ function ProjectDetails() {
           <NavBar/>
          <div className={styles.details}>
             <div className={styles.details__client}>
-               <div className={styles.details__name}>
+               <div data-aos="fade-right" data-aos-duration="1000" className={styles.details__name}>
                   <h1 className="heading heading__primary">
                      {details[projectId].name}
                   </h1>
@@ -37,20 +37,20 @@ function ProjectDetails() {
                   <p className="text text__large">Find out how I elevated this brand by creating a stunning and functional website that is motivated by simplicity and quality.</p>        
                </div>
                <div className={styles.details__info}>
-                     <div className={styles.details__detail}>
+                     <div data-aos="fade-left" data-aos-duration="1000" className={styles.details__detail}>
                         <p className="text text__large text--blue">CLIENT</p>
                         <p className="text text__large">{details[projectId].client}</p>
                      </div>
-                     <div className={styles.details__detail}>
+                     <div data-aos="fade-left" data-aos-duration="1000" className={styles.details__detail}>
                         <p className="text text__large text--blue">YEAR</p>
                         <p className="text text__large">{details[projectId].year}</p>
                      </div>
-                     <div className={styles.details__detail}>
+                     <div data-aos="fade-left" data-aos-duration="1000" className={styles.details__detail}>
                         <p className="text text__large text--blue">TIMELINE</p>
                         <p className="text text__large">{details[projectId].timeline}</p>
                      </div>
-                     <div className={styles.details__detail}>
-                        <p className="text text__large text--blue">SERVICES</p>
+                     <div data-aos="fade-left" data-aos-duration="1000" className={styles.details__detail}>
+                        <p data-aos="fade-left" data-aos-duration="1000" className="text text__large text--blue">SERVICES</p>
                         {
                            details[projectId].services.map((item,id) =>{
                               return <span key={id} className="text text__large -u-margin-right">{item}</span>
@@ -58,7 +58,7 @@ function ProjectDetails() {
                         }
                         
                      </div>
-                     <div className={styles.details__detail}>
+                     <div data-aos="fade-left" data-aos-duration="1000" className={styles.details__detail}>
                         <p className="text text__large text--blue">WEBSITE</p>
                         <p className="text text__large">{details[projectId].website}</p>
                      </div>

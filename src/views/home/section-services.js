@@ -12,14 +12,14 @@ function SectionServices() {
             <div className={styles.services}>
                 <div className={styles.services__left}>
                     <p className="text text__large -u-margin-bottom-medium">HOW I WORK</p>
-                    <h1 className='heading heading__secondary -u-margin-bottom-medium'>I help my clients succeed with good looking websites and quality service.</h1>
+                    <h1 data-aos="fade-right" data-aos-duration="1000" className='heading heading__secondary -u-margin-bottom-medium'>I help my clients succeed with good looking websites and quality service.</h1>
                     <div>
                         <img src='https://res.cloudinary.com/du3wd1lbd/image/upload/v1694518507/Andrew%20Kriegler/Shape_68_o9luyv.svg' alt=''/>
 
                     </div>
                 </div>
                 <div className={styles.services__right}>
-                    <p className="text text__large -u-margin-bottom-medium">Through communication and understanding of my clients goals, I strive to empower and elevate there online presence and exceed their audience’s expectations. </p>
+                    <p data-aos="fade-left" data-aos-duration="1000" className="text text__large -u-margin-bottom-medium">Through communication and understanding of my clients goals, I strive to empower and elevate there online presence and exceed their audience’s expectations. </p>
                     <Button className="button" page="/services" text="MY SERVICES"/>
                 </div>
             </div>

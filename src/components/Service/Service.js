@@ -31,9 +31,9 @@ function Service(props) {
             </div>
         </div>
         <div className={styles.service__info}>
-            <h1 className="heading heading__medium -u-margin-bottom">{props.heading}</h1>
-            <p className="text text__regular -u-margin-bottom">{props.content}</p>
-            <div className={styles.service__img_box}>
+            <h1 data-aos="fade-left" data-aos-duration="1000" className="heading heading__medium -u-margin-bottom">{props.heading}</h1>
+            <p data-aos="fade-left" data-aos-duration="1000" className="text text__regular -u-margin-bottom">{props.content}</p>
+            <div data-aos="fade-left" data-aos-duration="1000" className={styles.service__img_box}>
                 <img className={styles.service__img} src={props.img}/>
             </div>
         </div>

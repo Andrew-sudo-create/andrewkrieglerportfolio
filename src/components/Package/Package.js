@@ -31,40 +31,40 @@ export default function Package(props) {
 
 
             <div className={`${styles.package__detail}  -u-margin-bottom`}>
-                <p className="text text__large text--blue">PRICING</p>
-                <p className="text text__regular -u-margin-bottom">{props.pricing}</p>
+                <p data-aos="fade-right" data-aos-duration="1200" className="text text__large text--blue">PRICING</p>
+                <p data-aos="fade-left" data-aos-duration="1200" className="text text__regular -u-margin-bottom">{props.pricing}</p>
             </div>
             <div className={`${styles.package__detail}  -u-margin-bottom`}>
-                <p className="text text__large text--blue">WEBSITE PAGES</p>
-                <p className="text text__regular -u-margin-bottom">{props.pages}</p>
+                <p data-aos="fade-right" data-aos-duration="1200" className="text text__large text--blue">WEBSITE PAGES</p>
+                <p data-aos="fade-left" data-aos-duration="1200" className="text text__regular -u-margin-bottom">{props.pages}</p>
             </div>
             <div className={`${styles.package__detail}  -u-margin-bottom`}>
-                <p className="text text__large text--blue">FEATURES</p>
-                <p className="text text__regular -u-margin-bottom">{props.features}</p>
+                <p data-aos="fade-right" data-aos-duration="1200" className="text text__large text--blue">FEATURES</p>
+                <p data-aos="fade-left" data-aos-duration="1200" className="text text__regular -u-margin-bottom">{props.features}</p>
             </div>
             <div className={`${styles.package__detail}  -u-margin-bottom`}>
-                <p className="text text__large text--blue">MAINTENANCE</p>
-                <p className="text text__regular -u-margin-bottom">{props.maintenance}</p>
+                <p data-aos="fade-right" data-aos-duration="1200" className="text text__large text--blue">MAINTENANCE</p>
+                <p data-aos="fade-left" data-aos-duration="1200" className="text text__regular -u-margin-bottom">{props.maintenance}</p>
             </div>
             <div className={`${styles.package__detail}  -u-margin-bottom`}>
-                <p className="text text__large text--blue">CONSULTATION CALLS</p>
-                <p className="text text__regular -u-margin-bottom">{props.calls}</p>
+                <p data-aos="fade-right" data-aos-duration="1200" className="text text__large text--blue">CONSULTATION CALLS</p>
+                <p data-aos="fade-left" data-aos-duration="1200" className="text text__regular -u-margin-bottom">{props.calls}</p>
             </div>
             <div className={`${styles.package__detail}  -u-margin-bottom`}>
-                <p className="text text__large text--blue">COMMUNICATION</p>
-                <p className="text text__regular -u-margin-bottom">{props.communication}</p>
+                <p data-aos="fade-right" data-aos-duration="1200" className="text text__large text--blue">COMMUNICATION</p>
+                <p data-aos="fade-left" data-aos-duration="1200" className="text text__regular -u-margin-bottom">{props.communication}</p>
             </div>
             <div className={`${styles.package__detail}  -u-margin-bottom`}>
-                <p className="text text__large text--blue">TERMS & CONDITIONS</p>
+                <p data-aos="fade-right" data-aos-duration="1200" className="text text__large text--blue">TERMS & CONDITIONS</p>
                 {
                     props.terms.map((item,id)=>{
-                        return <p className="text text__regular">{item}</p>
+                        return <p data-aos="fade-left" data-aos-duration="1200" className="text text__regular">{item}</p>
                     })
                 }
                 
             </div>
             <div className={`${styles.package__detail}  -u-margin-bottom`}>
-                <p className="text text__regular -u-margin-bottom">{props.condition}</p>
+                <p data-aos="fade-right" data-aos-duration="1200" className="text text__regular -u-margin-bottom">{props.condition}</p>
             </div>
         </div>
     </div>

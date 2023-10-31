@@ -1,5 +1,9 @@
 @import '../styles/mixins.scss';
 
+.section_contact{
+    position: relative;
+}
+
 .contact{
     padding: 4rem 0;
     border-bottom: 2px solid var(--color-white);
