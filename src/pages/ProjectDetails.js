@@ -1,5 +1,5 @@
 import { useState,useEffect } from 'react'
-
+import {Routes, Route, Link} from "react-router-dom";
 import  {useParams} from "react-router-dom";
 
 import NavBar from '../components/Navbar/Navbar';
@@ -60,7 +60,7 @@ function ProjectDetails() {
                      </div>
                      <div data-aos="fade-left" data-aos-duration="1000" className={styles.details__detail}>
                         <p className="text text__large text--blue">WEBSITE</p>
-                        <p className="text text__large">{details[projectId].website}</p>
+                        <Link target='blank' to={details[projectId].website}><p className="text text__large">{details[projectId].website}</p></Link>
                      </div>
                </div>
             </div>

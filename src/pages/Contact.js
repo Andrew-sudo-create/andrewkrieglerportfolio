@@ -1,5 +1,6 @@
 import NavBar from '../components/Navbar/Navbar';
 import ContactCTA from '../components/Contact/contact-cta'
+import {BrowserRouter as Router, Routes, Route, Link} from "react-router-dom";
 import Footer from '../components/Footer/footer'
 import Accordion from '../components/Accordion/accordion';
 
@@ -29,15 +30,15 @@ function ContactPage() {
                     </div>
                     <div className={styles.contact__detail}>
                       <p className="text text__large text--blue">INSTAGRAM</p>
-                      <p className="text text__large">@andrewkriegler</p>
+                      <Link target='blank' to="https://www.instagram.com/andrewkriegler/"><p className="text text__large">@andrewkriegler</p></Link>
                     </div>
                     <div className={styles.contact__detail}>
                       <p className="text text__large text--blue">LINKED IN</p>
-                      <p className="text text__large">Andrew Kriegler</p>
+                      <Link target='blank' to="https://www.linkedin.com/in/andrew-kriegler/"><p className="text text__large">Andrew Kriegler</p></Link>
                     </div>
                     <div className={styles.contact__detail}>
                       <p className="text text__large text--blue">FACEBOOK</p>
-                      <p className="text text__large">Andrew Kriegler</p>
+                      <Link target='blank' to="https://www.facebook.com/andrewkrieglerweb"><p className="text text__large">Andrew Kriegler</p></Link>
                     </div>
                   </div>
             
