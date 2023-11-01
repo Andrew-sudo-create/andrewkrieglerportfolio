@@ -10,7 +10,7 @@ function ContactCTA() {
                     <h1 data-aos="fade-right" data-aos-duration="1000" className='heading heading__secondary -u-margin-bottom-medium'>I WOULD LOVE TO CONNECT.
 LET’S CHAT!</h1>
                     <div>
-                        <img src='https://res.cloudinary.com/du3wd1lbd/image/upload/v1694518507/Andrew%20Kriegler/Shape_68_o9luyv.svg' alt=''/>
+                        <img src='https://res.cloudinary.com/du3wd1lbd/image/upload/v1694518507/Andrew%20Kriegler/Shape_68_o9luyv.svg' alt='Contact Abstract'/>
 
                     </div>
                 </div>

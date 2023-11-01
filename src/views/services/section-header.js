@@ -1,7 +1,4 @@
-// import NavBar from '../components/Navbar/Navbar';
-import Button from '../../components/Button/button'
 
-// import './section-about.scss';
 import styles from './section-header.module.scss';
 import '../../styles/typography.scss'
 import '../../styles/utilities.scss'

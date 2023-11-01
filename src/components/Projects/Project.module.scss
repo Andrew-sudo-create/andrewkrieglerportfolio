@@ -12,6 +12,9 @@
     }
 
     &__content{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
         @include respond(tab-land) { 
             padding-bottom: 4rem;
         }

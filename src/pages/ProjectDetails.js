@@ -69,19 +69,19 @@ function ProjectDetails() {
                <div className={styles.details__description}>
                   <div className={styles.details__sticky}>
                   <div className={styles.details__item}>
-                     <img className={styles.details__icon} src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1695894586/Andrew%20Kriegler/challenge_r3rjyk.svg"/>
+                     <img alt='icon' className={styles.details__icon} src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1695894586/Andrew%20Kriegler/challenge_r3rjyk.svg"/>
                      <h1 className="heading heading__medium -u-margin-bottom">CHALLENGE</h1>
-                     <p className="text text__regular">My client needed a website that suited her warm Western Cape wedding photography as well as a elegant and “girly” feel.</p>
+                     <p className="text text__regular">{details[projectId].challenge}</p>
                   </div>
                   <div className={styles.details__item}>
-                     <img className={styles.details__icon} src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1695894593/Andrew%20Kriegler/solution_eqi0v2.svg"/>
+                     <img alt='icon' className={styles.details__icon} src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1695894593/Andrew%20Kriegler/solution_eqi0v2.svg"/>
                      <h1 className="heading heading__medium -u-margin-bottom">SOLUTION</h1>
-                     <p className="text text__regular">With connection and collaboration we came decided to go with a pastel colour pallet with an elegant font pair leading with simplicity.</p>
+                     <p className="text text__regular">{details[projectId].solution}</p>
                   </div>
                   <div className={styles.details__item}>
-                     <img className={styles.details__icon} src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1695894590/Andrew%20Kriegler/results_xppekb.svg"/>
+                     <img alt='icon' className={styles.details__icon} src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1695894590/Andrew%20Kriegler/results_xppekb.svg"/>
                      <h1 className="heading heading__medium -u-margin-bottom">RESULTS</h1>
-                     <p className="text text__regular">The website came out amazing and exactly like the client wanted, she was able have her brand elevated and showcase her wonderful work.</p>
+                     <p className="text text__regular">{details[projectId].results}</p>
                   </div>
                </div>
                </div>
@@ -92,7 +92,7 @@ function ProjectDetails() {
                               return(
                               
                               <div className={styles.details__img_box}>
-                                 <img key={id} className={styles.details__img} src={item}/>
+                                 <img alt='project snippets' key={id} className={styles.details__img} src={item}/>
                               </div>
                                     ) 
                            })

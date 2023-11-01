@@ -28,7 +28,7 @@ function SectionAbout() {
             </div>
             
             <div className ={styles.about__img_box}>
-                <img data-aos="fade-left" data-aos-duration="1000" className ={styles.about__img} src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1698305919/Andrew%20Kriegler/profilephoto_ez9nng_mmbmdw.jpg"/>
+                <img alt='profile' data-aos="fade-left" data-aos-duration="1000" className ={styles.about__img} src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1698305919/Andrew%20Kriegler/profilephoto_ez9nng_mmbmdw.jpg"/>
             </div>
         </div>
       </div>

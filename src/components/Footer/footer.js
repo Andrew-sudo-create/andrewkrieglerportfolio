@@ -10,7 +10,7 @@ function Footer() {
     return (
       <div className={styles.footer}>
         <div className={styles.footer__logo_box}>
-            <img className={styles.footer__logo} src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1698305919/Andrew%20Kriegler/png_iqqofh_zzywuc.png"/>
+            <img alt='Andrews Website Logo' className={styles.footer__logo} src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1698305919/Andrew%20Kriegler/png_iqqofh_zzywuc.png"/>
         </div>
         <div className={styles.footer__links}>
             <Link className={styles.footer__link} to="/">Home</Link>

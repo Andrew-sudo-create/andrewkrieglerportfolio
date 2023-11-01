@@ -14,7 +14,7 @@ function SectionServices() {
                     <p className="text text__large -u-margin-bottom-medium">HOW I WORK</p>
                     <h1 data-aos="fade-right" data-aos-duration="1000" className='heading heading__secondary -u-margin-bottom-medium'>I help my clients succeed with good looking websites and quality service.</h1>
                     <div>
-                        <img src='https://res.cloudinary.com/du3wd1lbd/image/upload/v1694518507/Andrew%20Kriegler/Shape_68_o9luyv.svg' alt=''/>
+                        <img src='https://res.cloudinary.com/du3wd1lbd/image/upload/v1694518507/Andrew%20Kriegler/Shape_68_o9luyv.svg' alt='shape'/>
 
                     </div>
                 </div>

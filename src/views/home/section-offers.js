@@ -16,7 +16,7 @@ function SectionOffers() {
             <div className={styles.offers__items}>
                 <div className={styles.offers__item}>
                     <div className={styles.offers__image_box}>
-                        <img data-aos="fade-up" data-aos-duration="1000" src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1694420184/Andrew%20Kriegler/design_medx1t.svg" alt="" className={styles.offers__img}/>
+                        <img data-aos="fade-up" data-aos-duration="1000" src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1694420184/Andrew%20Kriegler/design_medx1t.svg" alt="icon" className={styles.offers__img}/>
                     </div>
                     <div className={styles.offers__desc}>
                         <h1 className='heading heading__tertiary -u-margin-bottom-small'>DESIGN</h1>
@@ -25,7 +25,7 @@ function SectionOffers() {
                 </div>
                 <div className={styles.offers__item}>
                     <div className={styles.offers__image_box}>
-                        <img data-aos="fade-up" data-aos-duration="1000" src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1694421385/Andrew%20Kriegler/developement_sssaaz.svg" alt="" className={styles.offers__img}/>
+                        <img data-aos="fade-up" data-aos-duration="1000" src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1694421385/Andrew%20Kriegler/developement_sssaaz.svg" alt="icon" className={styles.offers__img}/>
                     </div>
                     <div className={styles.offers__desc}>
                         <h1 className='heading heading__tertiary -u-margin-bottom-small'>DEVELOPEMENT</h1>
@@ -34,7 +34,7 @@ function SectionOffers() {
                 </div>
                 <div className={styles.offers__item}>
                     <div className={styles.offers__image_box}>
-                        <img data-aos="fade-up" data-aos-duration="1000" src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1694421382/Andrew%20Kriegler/branding_ewznty.svg" alt="" className={styles.offers__img}/>
+                        <img data-aos="fade-up" data-aos-duration="1000" src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1694421382/Andrew%20Kriegler/branding_ewznty.svg" alt="icon" className={styles.offers__img}/>
                     </div>
                     <div className={styles.offers__desc}>
                         <h1 className='heading heading__tertiary -u-margin-bottom-small'>BRANDING</h1>
@@ -43,7 +43,7 @@ function SectionOffers() {
                 </div>
                 <div className={styles.offers__item}>
                     <div className={styles.offers__image_box}>
-                        <img data-aos="fade-up" data-aos-duration="1000" src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1694421392/Andrew%20Kriegler/elevation_gs99wi.svg" alt="" className={styles.offers__img}/>
+                        <img data-aos="fade-up" data-aos-duration="1000" src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1694421392/Andrew%20Kriegler/elevation_gs99wi.svg" alt="icon" className={styles.offers__img}/>
                     </div>
                     <div className={styles.offers__desc}>
                         <h1 className='heading heading__tertiary -u-margin-bottom-small'>ELEVATION</h1>

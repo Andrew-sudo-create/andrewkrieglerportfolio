@@ -16,7 +16,7 @@ function Service(props) {
       <div className={styles.service}>
         <div className={styles.service__service}>
             <div className={styles.service__sticky}>
-            <img className='-u-margin-bottom' src={props.icon}/>
+            <img alt='icon' className='-u-margin-bottom' src={props.icon}/>
             <h1 className="heading heading__medium -u-margin-bottom">{props.service}</h1>
             
                 {

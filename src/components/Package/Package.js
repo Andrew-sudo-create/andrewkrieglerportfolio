@@ -12,7 +12,7 @@ export default function Package(props) {
         
         <div className={styles.package__type}>
         <div className={styles.sticky}>
-            <img className="-u-margin-bottom" src={props.icon}/>
+            <img alt='package icon' className="-u-margin-bottom" src={props.icon}/>
             <h1 className="heading heading__medium -u-margin-bottom">{props.type}</h1>
             {
                 props.info.map((item,id)=>{

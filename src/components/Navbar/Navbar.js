@@ -66,19 +66,3 @@ function Navbar() {
   }
 
   export default Navbar;
-
-  // return (
-  //   <nav className= "navbar">
-
-
-  //     {/* 
-  //     <div className="navbar__links">
-  //       <Link className= "navbar__link" to="/">Home</Link>
-  //       <Link className= "navbar__link" to="/about">About</Link>
-  //       <Link className= "navbar__link" to="/packages">Packages</Link>
-  //       <Link className= "navbar__link" to="/projects">Projects</Link>
-  //       <Link className= "navbar__link" to="/services">Services</Link>
-  //       <Link className= "navbar__link" to="/contact">Contact</Link>
-  //     </div> */}
-  //   </nav>
-  // );
