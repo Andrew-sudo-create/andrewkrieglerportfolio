@@ -8,7 +8,7 @@
     align-items: center;
     border-bottom: solid 2px var(--color-white);
     padding-bottom: 4rem;
-    overflow-x: hidden !important;
+    overflow-x: clip !important;
   }
 
   .navLink{

@@ -59,7 +59,7 @@ function SectionProjects() {
                                 <img data-aos="fade-right" data-aos-duration="1000" className={styles.projects__img} src="https://res.cloudinary.com/du3wd1lbd/image/upload/v1698305914/Andrew%20Kriegler/femsolutions.net__4_dp6wax_zo1cim.png" alt=""></img>
                             </div>
                             <div className={styles.projects__desc}>
-                                <h1 className="heading heading__projects-name heading__projects-name--small">Mitakon Innovation</h1>
+                                <h1 className="heading heading__projects-name heading__projects-name--small">FEMS Solutions</h1>
                                 <p className='text text__regular'>2023</p>
                             </div>
                         </div>
